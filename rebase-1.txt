@@ -1,2 +1,3 @@
 rebase1
 add something
+new line after rebase-branch
